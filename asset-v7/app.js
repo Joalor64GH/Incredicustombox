@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "Kabikabi",
         src: "v7-b3-kabikabi-hb.mp4",
-        code: "5,8,9,10,19",
+        code: "5,7,9,10,19",
         sound: "bonus_kabikabi",
         aspire: "aspire_kabikabi"
     }], this.unlockerarray = [];

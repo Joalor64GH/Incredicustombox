@@ -83,7 +83,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Riveria",
         src: "v8-b1-riviera-hb.mp4",
-        code: "1,3,7,11,18",
+        code: "1,3,6,11,18",
         sound: "21_bonus_riviera",
         aspire: "aspire"
     }, {
