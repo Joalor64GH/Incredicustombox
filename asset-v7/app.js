@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "Sapna",
         src: "v7-b2-sapna-hb.mp4",
-        code: "1,3,5,14,20",
+        code: "1,3,10,14,20",
         sound: "bonus_sapna",
         aspire: "aspire_sapna"
     }, {
