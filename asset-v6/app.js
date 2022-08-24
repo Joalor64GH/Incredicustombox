@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "VR",
         src: "v6-b3-vr-hb.mp4",
-        code: "3,8,12,11,20",
+        code: "3,8,11,12,20",
         sound: "bonus-vr",
         aspire: "aspire-vr"
     }], this.unlockerarray = [];
