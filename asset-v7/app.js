@@ -7,7 +7,7 @@ var app = new function() {
     }, {
         name: "2_pouin",
         color: "ff6419",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "3_tung",
         color: "ff6419",
