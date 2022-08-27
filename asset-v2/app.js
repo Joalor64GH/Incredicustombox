@@ -83,7 +83,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Satisfied",
         src: "v2-b1-satisfy-hb.mp4",
-        code: "1,3,4,6,14",
+        code: "1,3,4,6,9",
         sound: "bonus-satisfy",
         aspire: "aspire"
     }, {
@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "Why this world",
         src: "v2-b3-world-hb.mp4",
-        code: "1,2,5,7,18",
+        code: "1,2,14,17,18",
         sound: "bonus-world",
         aspire: "aspire"
     }];

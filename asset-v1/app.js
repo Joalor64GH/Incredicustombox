@@ -61,8 +61,8 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "16_aoun",
-        color: "828282",
+        name: "16_alone",
+        color: "70653D",
         uniqsnd: !0
     }, {
         name: "17_hum",
@@ -77,13 +77,13 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "20_make",
-        color: "828282",
+        name: "20_campan",
+        color: "70653D",
         uniqsnd: !0
     }], this.bonusarray = [{
         name: "The Choir",
         src: "v1-b1-choir-hb.mp4",
-        code: "1,2,6,11,15",
+        code: "1,2,11,15,16",
         sound: "bonus-choir",
         aspire: "aspire"
     }, {
