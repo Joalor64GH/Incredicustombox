@@ -29,7 +29,7 @@ var app = new function() {
         color: "e11923",
         uniqsnd: !0
     }, {
-        name: "8_campan",
+        name: "8_heyas",
         color: "e11923",
         uniqsnd: !0
     }, {
